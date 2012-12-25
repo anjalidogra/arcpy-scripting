@@ -1,6 +1,6 @@
-* ArcPy Scripting Resources *
+# ArcPy Scripting Resources #
 
-** ESRI Free Training **
+## ESRI Free Training ##
 
 * [Python for Everyone Using ArcGIS 10.1](http://training.esri.com/gateway/index.cfm?fa=catalog.webCourseDetail&courseid=2520) 
 * [Creating Python Toolboxes Using ArcGIS 10.1](http://training.esri.com/gateway/index.cfm?fa=catalog.webCourseDetail&courseid=2523) 

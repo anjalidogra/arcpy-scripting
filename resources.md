@@ -12,3 +12,4 @@ Free training
 Other
 
 * [10 Easy Ways to Tame Python Scripting in ArcGIS](http://blogs.esri.com/esri/supportcenter/2012/01/12/10-easy-ways-to-tame-python-scripting-in-arcgis/)
+* [PYTHON, GIS, AND STUFF...](http://pythongisandstuff.wordpress.com/)

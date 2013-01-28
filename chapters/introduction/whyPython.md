@@ -12,3 +12,10 @@
 10.Create your own custom tools that can be integrated with ArcToolbox and shared with others.
 
 Source: [Geospatial Training](http://www.geospatialtraining.com/index.php?option=com_catalog&view=node&id=63%3Agis-programming-101-for-arcgis-10-mastering-python&Itemid=87)
+
+1. Python is simple and easy to learn. 
+2. Python is free and open source.
+3. Python is cross platform.
+4. Python is an interpreted language.  
+    * No compiling
+5. Python is object oriented.
